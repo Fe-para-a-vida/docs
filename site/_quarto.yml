@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: files
+
+website:
+  title: "Fé"
+  image: logo-fe.jpeg
+  favicon: logo-fe.jpeg
+  open-graph: true
+  twitter-card: false
+  page-navigation: true
+  
+  navbar:
+    background: lightgray
+    # logo: logo-fe.jpeg
+    logo-alt: "Fé"
+    title: false
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Fé
+      - about.qmd
+    tools:
+      - icon: instagram
+        href: https://www.instagram.com/fe.para.a.vida
+        text: Instagram Fé Para a Vida
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
