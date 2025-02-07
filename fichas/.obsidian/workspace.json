@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb68239fbad7deb",
+        "id": "4092bf1dceef8a12",
         "type": "tabs",
         "children": [
           {
-            "id": "5bed7964ea61965e",
+            "id": "d6a3f800a29cc540",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Introdução à lógica e raciocínio crítico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introdução à lógica e raciocínio crítico"
             }
           }
         ]
@@ -164,11 +168,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5bed7964ea61965e",
+  "active": "d6a3f800a29cc540",
   "lastOpenFiles": [
+    "Cursos/Introdução à lógica e raciocínio crítico.md",
+    "Cursos/Além de Nárnia.md",
+    "Livros/Introdução à lógica.md",
+    "Cursos",
+    "Livros/Finding our sacred center.md",
+    "Livros/Alternative to futility.md",
+    "Notas/Leituras recomendadas por Dallas Willard.md",
+    "Autores/Elton Trueblood.md",
+    "Autores/Irving M Copi.md",
+    "Autores/Dallas Willard.md",
+    "Notas",
     "Citações/Não estou sozinho.md",
     "crie um link.md",
-    "Livros/Finding our sacred center.md",
     "Citações",
     "Autores/Henri Nouwen.md",
     "Livros",
